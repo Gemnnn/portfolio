@@ -18,8 +18,8 @@ const Main = () => {
     {
       projectName: 'Starbucks Shelf Life Tracker App',
       briefInfo:
-      'This app helps Starbucks partners track product shelf life dates efficiently. Features include quick product lookup via RESTful APIs and custom widgets for iOS and Android, providing instant access to expiration dates without opening the app. Powered by Azure App Service and SQL Server for scalability., based on the keyword the user registered and location, providing key points on recent events. Plus, it will be able to engage with a community of like-minded individuals by sharing keywords and stories.',
-      gitLink: 'https://github.com/Gemnnn/sbux-support-app',
+      'This app helps Starbucks partners efficiently track product shelf life dates. It features quick product lookup via RESTful APIs and custom widgets for iOS and Android, providing instant access to expiration dates without opening the app. Powered by Azure App Service and SQL Server for scalability. Additionally, it offers key points on recent events based on user-registered keywords and location, and allows users to engage with a community by sharing keywords and stories.',
+      gitLink: 'https://github.com/Gemnnn/Initiate-News',
     },
     {
       projectName: 'Initiate News',
