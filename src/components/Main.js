@@ -16,6 +16,12 @@ import Interests from './Interests';
 const Main = () => {
   const projectsData = [
     {
+      projectName: 'Starbucks Shelf Life Tracker App',
+      briefInfo:
+      'This app helps Starbucks partners track product shelf life dates efficiently. Features include quick product lookup via RESTful APIs and custom widgets for iOS and Android, providing instant access to expiration dates without opening the app. Powered by Azure App Service and SQL Server for scalability., based on the keyword the user registered and location, providing key points on recent events. Plus, it will be able to engage with a community of like-minded individuals by sharing keywords and stories.',
+      gitLink: 'https://github.com/Gemnnn/sbux-support-app',
+    },
+    {
       projectName: 'Initiate News',
       briefInfo:
       'Initiate News condenses daily news into brief summaries, based on the keyword the user registered and location, providing key points on recent events. Plus, it will be able to engage with a community of like-minded individuals by sharing keywords and stories.',
