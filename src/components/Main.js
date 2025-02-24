@@ -133,7 +133,7 @@ const Main = () => {
             {/* <h1 className='animated-text'>Junior Developer</h1>
             <h1 className='animated-text'>& Coffee Enthusiast.</h1> */}
               <AnimatedText text="Junior Developer " />
-              <AnimatedText text="& Coffee Enthusiast. " />
+              <AnimatedText text="& Coffee Enthusiast " />
           </div>
         </div>
         {/*  */}
