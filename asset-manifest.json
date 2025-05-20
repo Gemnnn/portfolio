@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a435192.css",
-    "main.js": "/static/js/main.6a397765.js",
+    "main.css": "/static/css/main.56995c04.css",
+    "main.js": "/static/js/main.083de7a0.js",
     "static/media/photo1.png": "/static/media/photo1.a5bc708218c7a9a1d116.png",
     "static/media/Delphi.png": "/static/media/Delphi.4cf5d27cde80fa2bd342.png",
+    "static/media/MSSQL.svg": "/static/media/MSSQL.faf9645db7accb5d88a409189ad0a7d8.svg",
     "static/media/React.png": "/static/media/React.3b492bade043821ded42.png",
     "static/media/Java.svg": "/static/media/Java.cb1ae6880f816c02c707aa3e373da45f.svg",
     "static/media/CSharp.svg": "/static/media/CSharp.72d6dcc144316c8b0604497b10071d70.svg",
     "static/media/JS.svg": "/static/media/JS.0331ddeca13066162f1f72c37a708739.svg",
+    "static/media/MySQL.svg": "/static/media/MySQL.767664a0d87ff656a125eb2247485d70.svg",
+    "static/media/ReactNative.svg": "/static/media/ReactNative.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/DotNetCore.svg": "/static/media/DotNetCore.97f78a4850d6a3bc4e99f4603d84643d.svg",
+    "static/media/Azure.svg": "/static/media/Azure.34c7964368fa32c2968fde812dc827ff.svg",
     "static/media/kotlin.svg": "/static/media/kotlin.dacec53b41519d5b844a780e625cb099.svg",
     "index.html": "/index.html",
-    "main.2a435192.css.map": "/static/css/main.2a435192.css.map",
-    "main.6a397765.js.map": "/static/js/main.6a397765.js.map"
+    "main.56995c04.css.map": "/static/css/main.56995c04.css.map",
+    "main.083de7a0.js.map": "/static/js/main.083de7a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a435192.css",
-    "static/js/main.6a397765.js"
+    "static/css/main.56995c04.css",
+    "static/js/main.083de7a0.js"
   ]
 }
