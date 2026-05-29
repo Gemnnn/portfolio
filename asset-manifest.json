@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9272218b.css",
-    "main.js": "/static/js/main.a72ccace.js",
+    "main.css": "/static/css/main.9cc9aee0.css",
+    "main.js": "/static/js/main.faf5fc99.js",
     "static/media/photo1.png": "/static/media/photo1.a5bc708218c7a9a1d116.png",
     "static/media/Delphi.png": "/static/media/Delphi.4cf5d27cde80fa2bd342.png",
     "static/media/MSSQL.svg": "/static/media/MSSQL.faf9645db7accb5d88a409189ad0a7d8.svg",
@@ -15,11 +15,11 @@
     "static/media/Azure.svg": "/static/media/Azure.34c7964368fa32c2968fde812dc827ff.svg",
     "static/media/kotlin.svg": "/static/media/kotlin.dacec53b41519d5b844a780e625cb099.svg",
     "index.html": "/index.html",
-    "main.9272218b.css.map": "/static/css/main.9272218b.css.map",
-    "main.a72ccace.js.map": "/static/js/main.a72ccace.js.map"
+    "main.9cc9aee0.css.map": "/static/css/main.9cc9aee0.css.map",
+    "main.faf5fc99.js.map": "/static/js/main.faf5fc99.js.map"
   },
   "entrypoints": [
-    "static/css/main.9272218b.css",
-    "static/js/main.a72ccace.js"
+    "static/css/main.9cc9aee0.css",
+    "static/js/main.faf5fc99.js"
   ]
 }
